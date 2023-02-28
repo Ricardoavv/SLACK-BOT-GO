@@ -24,7 +24,7 @@ Crear una cuenta de slack y realizar los siguientes pasos:
     10. El token generado lo vamos a copiar y pegar el codigo donde dice TOKEN
     11. Con todos pasos completados, vamos al chat que creamos y buscamos en el url del chat la ultima serie de 
             caracteres, en este ejemplo seria : C04S8H5CU7J
-        https://app.slack.com/client/T04RJS6430S/C04S8H5CU7J
+        https://app.slack.com/client/T04asdfasdS/C04S8H5CU7J
     12. Estos caracteres los pegamos en codigo donde dice "CHAT"
     13. De esta manera el codigo quedaria listo, solo haria falta correr el programa y pasarle los parametros
     14. go run jenkins-notification.go http://localhost SUCCESS 10 test
